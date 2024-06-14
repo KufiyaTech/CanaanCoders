@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @CanaanCoders
-- 👀 I’m interested in robotics , AI , programming.
-- 🌱 I’m currently learning how to build a robot from scratch.
--
+Engineering Documentation|Team CanaanCoders
+This repository contains the engineering process including materials, software, schematic, pictures, and descriptions of Team's self-driven vehicle model participating in the WRO Future Engineers competition in the 2024 season.
 
 <!---
 CanaanCoders/CanaanCoders is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
