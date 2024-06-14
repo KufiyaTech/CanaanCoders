@@ -1,8 +1,0 @@
-- 👋 Hi, I’m @CanaanCoders
-Engineering Documentation|Team CanaanCoders
-This repository contains the engineering process including materials, software, schematic, pictures, and descriptions of Team's self-driven vehicle model participating in the WRO Future Engineers competition in the 2024 season.
-
-<!---
-CanaanCoders/CanaanCoders is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
