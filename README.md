@@ -5,7 +5,9 @@
 
 ## Team Members:
 1-Sara Jawaadeh -email:
+
 2-Amro Duhaidi -email:
+
 3-Tala Daraghmeh -email:taladaraghmeh836@gmail.com
 # Description:
 From the heart of the land of olives and resilience, our ambition and passion as Palestinian students have flourished. We aspire to represent our country in the best light possible. This is our compass, this was our goal, and this is what aided us in achieving it at the purpose academy, specializing in robotics and artificial intelligence, located in the economic capital of Palestine, Ramallah.
