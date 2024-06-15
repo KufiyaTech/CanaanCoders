@@ -30,7 +30,7 @@ The MG995 Servo Motor is renowned for its precise angular position control using
 ## *pixy2 camera:
 https://pixycam.com/pixy2/
 Pixy2 is smaller, faster and more capable than the original Pixy.  Like its predecessor, Pixy2 can learn to detect objects that you teach it, just by pressing a button.  Additionally, Pixy2 has new algorithms that detect and track lines for use with line-following robots.  The new algorithms can detect intersections and “road signs” as well. The road signs can tell your robot what to do, such as turn left, turn right, slow down, etc.  And Pixy2 does all of this at 60 frames-per-second, so your robot can be fast, too.
-## MPU-9250:
+## *MPU-9250:
 https://learn.sparkfun.com/tutorials/mpu-9250-hookup-guide/all
 The MPU-9250 is an integrated motion-tracking sensor module that combines a gyroscope, accelerometer, and magnetometer. It is widely used for precise measurement of orientation, acceleration, and magnetic fields in applications ranging from drones and robotics to wearable devices.
 ## *HC-SR04 Ultrasonic Sensor:
