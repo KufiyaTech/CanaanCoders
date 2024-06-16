@@ -35,12 +35,13 @@ https://learn.sparkfun.com/tutorials/mpu-9250-hookup-guide/all
 The MPU-9250 is an integrated motion-tracking sensor module that combines a gyroscope, accelerometer, and magnetometer. It is widely used for precise measurement of orientation, acceleration, and magnetic fields in applications ranging from drones and robotics to wearable devices.
 ## *HC-SR04 Ultrasonic Sensor:
 https://www.sparkfun.com/products/15569
+The HC-SR04 Ultrasonic Sensor uses ultrasonic waves to determine distances by measuring the time taken for the waves to reflect back from an object. It's widely employed in robotics for precise obstacle detection and distance measurement tasks due to its reliability and straightforward interfacing capabilities with microcontrollers, we used 5 ultrasonic sensors , 3 in the front , one on the right side of the robot and one on the left side of the robot.
+
+
 
 
 ## Behind the Scenes: Tackling Technical Hurdles in Our Robot Project:
 Despite being an unforgettable experience, like any other journey, it was filled with obstacles. We cannot deny that the resilience ingrained in us by our Palestinian heritage helped us overcome these challenges. This competition was our first experience in building and programming a robot. None of the team members had ever participated in such an event before. This was our first hurdle: three of us venturing into the unknown. Many questions plagued us and we faced a lot of hardship during our quest for answers. How do we build and design a robot from scratch? What do we need? How do we make this robot overcome obstacles? What is the best way to make this robot recognize colors? Many questions needed answers, and the journey to find them was arduous. But as Palestinians, we do not know the meaning of surrender.
 ## The First Hurdle:
 While trying to find a solution for the obstacle challenge round, we needed to program the robot to recognize red and green traffic signs. What should we do? We researched and read a lot about the OpenCV library and decided to use it to enable the robot to perform color detection. This was our first experience with image processing. However, we faced many difficulties when using OpenCV; the detection was not accurate. We tried multiple times to fix the issue but eventually decided to abandon OpenCV and use the Pixy2 camera, which is specifically designed for color recognition.
-
-The HC-SR04 Ultrasonic Sensor uses ultrasonic waves to determine distances by measuring the time taken for the waves to reflect back from an object. It's widely employed in robotics for precise obstacle detection and distance measurement tasks due to its reliability and straightforward interfacing capabilities with microcontrollers, we used 5 ultrasonic sensors , 3 in the front , one on the right side of the robot and one on the left side of the robot.
 
