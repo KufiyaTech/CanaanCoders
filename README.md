@@ -1,14 +1,14 @@
-## Hi ,we are CanaanCoders team!
+## Hi ,we are KufiyaTech team!
 
-## Engineering Documentation | Team CanaanCoders
+## Engineering Documentation | Team KufiyaTech
 ## This repository contains the engineering process including materials, software, schematic, pictures, and descriptions of Team's self-driven vehicle model participating in the WRO Future Engineers competition in the 2024 season.
 
 ## Team Members:
-Sara Jawaadeh -email:
+Sara Jawaadeh ,designer -email:
 
-Amro Duhaidi -email:
+Amro Duhaidi ,software developer -email:
 
-Tala Daraghmeh-email:taladaraghmeh836@gmail.com
+Tala Daraghmeh ,software developer -email:taladaraghmeh836@gmail.com
 ## coach name:
 Mohammad Muamar
 # Description:
